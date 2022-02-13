@@ -1,6 +1,6 @@
 {
   "name": "@MDCYT/elfa",
-  "version": "0.0.1-beta",
+  "version": "0.0.2-beta",
   "description": "Make you own elfa (GirlFriend) Papu :v",
   "main": "index.js",
   "scripts": {
